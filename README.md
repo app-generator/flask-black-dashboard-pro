@@ -8,7 +8,7 @@
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- **24/7 LIVE Support**
+- Free updates 
 
 <br />
 
@@ -18,7 +18,7 @@
 
 ## Support
 
-For issues and features request, use **Github** or access the [support page](https://appseed.us/support) provided by **AppSeed** 
+24/7 Live [support](appseed.us/support) via [Discord](https://discord.gg/fZC6hup) and eMail **< support@appseed.us >**
 
 <br />
 
@@ -40,12 +40,10 @@ For issues and features request, use **Github** or access the [support page](htt
 
 <br />
 
-## Resources
+## Links & Resources
 
-1. [Flask Documentation](http://flask.pocoo.org/docs/)
-2. [Flask Extensions](http://flask.pocoo.org/extensions/)
-3. [More Flask Apps](https://appseed.us/apps/flask-apps)
-4. [Read More about Flask Apps](https://blog.appseed.us/tag/flask)
+- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - product page
+- [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.appseed.us/) - LIVE Demo
 
 <br />
 
