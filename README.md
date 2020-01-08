@@ -8,7 +8,7 @@
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- FREE updates
+- FREE updates and **24/7 Live support** via [Discord](https://discord.gg/fZC6hup)
 - [Commercial License](./LICENSE.md)
 
 <br />
