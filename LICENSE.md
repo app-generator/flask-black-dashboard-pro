@@ -8,7 +8,6 @@ Copyright (c) 2019 [AppSeed - Web App Generator](http://appseed.us/)
 
 <br />
 
-| Item | Type | Type | 
 | ---------------------------------- | --- | --- |
 | License Type | Personal | Developer |
 | Use for print | **YES** | **YES** |
