@@ -11,12 +11,12 @@ Copyright (c) 2019 [AppSeed - Web App Generator](http://appseed.us/)
 | Item | Type | Type | 
 | ---------------------------------- | --- | --- |
 | License Type | Personal | Developer |
-| Use for print | YES | YES |
-| Create single personal website/app | YES | YES |
-| Create single website/app for client | YES | YES |
+| Use for print | **YES** | **YES** |
+| Create single personal website/app | **YES** | **YES** |
+| Create single website/app for client | **YES** | **YES** |
 | --- | --- |
-| Create multiple website/apps for clients | NO | YES |
-| Create SaaS application | NO | YES |
+| Create multiple website/apps for clients | NO | **YES** |
+| Create SaaS application | NO | **YES** |
 | Create HTML/CSS template for sale | NO | NO |
 | Create Theme/Template for CMS for sale | NO | NO |
 | Product resale | NO | NO |
