@@ -8,20 +8,20 @@ Copyright (c) 2019 [AppSeed - Web App Generator](http://appseed.us/)
 
 <br />
 
-| Item | Info |
-| ---------------------------------- | --- |
-| License Type | Personal |
-| Use for print | YES |
-| Create single personal website/app | YES |
-| Create single website/app for client | YES |
+| Item | Type | Type | 
+| ---------------------------------- | --- | --- |
+| License Type | Personal | Developer |
+| Use for print | YES | YES |
+| Create single personal website/app | YES | YES |
+| Create single website/app for client | YES | YES |
 | --- | --- |
-| Create multiple website/apps for clients | NO |
-| Create SaaS application | NO |
-| Create HTML/CSS template for sale | NO |
-| Create Theme/Template for CMS for sale | NO |
-| Product resale | NO |
-| Separate sale of our UI Elements | NO |
-| Create online/offline generators based on our products | NO |
+| Create multiple website/apps for clients | NO | YES |
+| Create SaaS application | NO | YES |
+| Create HTML/CSS template for sale | NO | NO |
+| Create Theme/Template for CMS for sale | NO | NO |
+| Product resale | NO | NO |
+| Separate sale of our UI Elements | NO | NO |
+| Create online/offline generators based on our products | NO | NO |
 
 <br />
 
