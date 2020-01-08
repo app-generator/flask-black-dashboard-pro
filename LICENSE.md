@@ -1,6 +1,6 @@
 # Commercial License
 
-Copyright (c) 2019 [AppSeed - Web App Generator](http://appseed.us/)
+Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 <br />
 
