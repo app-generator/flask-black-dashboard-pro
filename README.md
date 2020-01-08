@@ -8,7 +8,8 @@
 - Session-Based authentication (via **flask_login**)
 - Forms validation
 - Deployment scripts: Docker, Gunicorn
-- Free updates 
+- FREE updates
+- [Commercial License](./LICENSE.md)
 
 <br />
 
