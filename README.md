@@ -1,6 +1,6 @@
 # [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **Paper Design Pro** crafted by Creative-Tim. **Features**:
+**Commercial product** - Flask **Dashboard** coded on top of **Black Dashboard Pro** crafted by Creative-Tim. **Features**:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
