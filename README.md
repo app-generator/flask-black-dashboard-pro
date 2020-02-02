@@ -13,6 +13,14 @@
 
 <br />
 
+## [Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) Links
+
+- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Product page
+- [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.appseed.us/) - LIVE demo
+- [Flask Dashboard Black PRO](https://www.youtube.com/watch?v=JAVUaUfY1zY) - yTube video presentation
+
+<br />
+
 ![Flask Dashboard Black Pro - Gif animated intro.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-intro.gif)
 
 <br />
@@ -23,7 +31,7 @@
 
 <br />
 
-## App Screenshots
+## [Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) Screenshots
 
 ![Flask Dashboard Black Pro - App Screen.](https://raw.githubusercontent.com/app-generator/static/master/products/flask-dashboard-black-pro-screen.png)
 
@@ -43,8 +51,9 @@
 
 ## Links & Resources
 
-- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - product page
-- [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.appseed.us/) - LIVE Demo
+- Read more about **Flask** by accessing the [official Flask website](https://palletsprojects.com/p/flask/) or read the [docs](https://flask.palletsprojects.com/).
+- Use the FREE version of the app - [Flask Dashboard Black](https://appseed.us/admin-dashboards/flask-dashboard-black)
+- See the full list with [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - provided by AppSeed
 
 <br />
 
