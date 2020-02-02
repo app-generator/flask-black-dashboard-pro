@@ -18,6 +18,7 @@
 - [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Product page
 - [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.appseed.us/) - LIVE demo
 - [Flask Dashboard Black PRO](https://www.youtube.com/watch?v=JAVUaUfY1zY) - yTube video presentation
+- [Flask Dashboard Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-black-pro) - documentation (how to use the product)
 
 <br />
 
