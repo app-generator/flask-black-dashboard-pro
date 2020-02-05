@@ -1,6 +1,8 @@
 # [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
 
-**Commercial product** - Flask **Dashboard** coded on top of **Black Dashboard Pro** crafted by Creative-Tim. **Features**:
+**Commercial product** - Flask **Dashboard** coded on top of **Black Dashboard Pro** crafted by Creative-Tim. 
+
+**Features**:
 
 - SQLite, PostgreSQL
 - SQLAlchemy ORM, Alembic (for db schema migration)
@@ -16,7 +18,7 @@
 ## [Flask Dashboard](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) Links
 
 - [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Product page
-- [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.appseed.us/) - LIVE demo
+- [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.herokuapp.com/login) - **LIVE demo**
 - [Flask Dashboard Black PRO](https://www.youtube.com/watch?v=JAVUaUfY1zY) - yTube video presentation
 - [Flask Dashboard Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-black-pro) - documentation (how to use the product)
 
