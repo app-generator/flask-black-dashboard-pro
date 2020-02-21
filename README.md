@@ -21,7 +21,7 @@
 ## Dashboard Links
 
 - [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Product page
-- [Flask Dashboard Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-black-pro) - Documentation
+- [Flask Dashboard Black PRO](https://docs.appseed.us/admin-dashboards/flask-dashboard-black-pro/) - Documentation
 - [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.appseed.us/) - LIVE demo
 
 <br />
