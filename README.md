@@ -120,7 +120,7 @@ The boilerplate code is built with a modular structure that follows the recommen
 
 ## Build from sources
 
-> Note: this is a private repository. To get access, you should buy a license from the [product page](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) page. 
+> Note: this is a private repository. To get access, you should buy a license from the [product page](https://appseed.us/admin-dashboards/flask-dashboard-black-pro). 
 
 <br />
 
