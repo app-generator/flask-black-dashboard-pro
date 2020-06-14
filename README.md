@@ -3,6 +3,7 @@
 > Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
 - UI Kit: **Black Dashboard** (PRO Version) provided by **Creative-Tim**
+- Jinja2 Theme: [Black Dashboard PRO](https://github.com/app-generator/theme-jinja2-black-dashboard-pro)
 - SQLite, PostgreSQL, SQLAlchemy ORM
 - Alembic (DB schema migrations)
 - Modular design with **Blueprints**
