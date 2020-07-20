@@ -1,4 +1,4 @@
-# [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
+# [Flask Dashboard - Black Design PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro)
 
 > Commercial product - **Flask Dashboard** provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator) - Features:
 
@@ -15,8 +15,8 @@
 
 > Links
 
-- [Flask Dashboard Black PRO](https://flask-dashboard-black-pro.appseed.us/login) - LIVE Demo
-- [Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Official product page
+- [Flask Dashboard - Black Design PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Official product page
+- [Flask Black PRO Demo](https://flask-dashboard-black-pro.appseed.us/login) - LIVE App
 - More [Flask Admin Dashboards](https://appseed.us/admin-dashboards/flask) - index hosted by **[AppSeed](https://appseed.us)**
 - [Open-Source Admin Dashboards](https://appseed.us/admin-dashboards/open-source) - index hosted by **[AppSeed](https://appseed.us)**
 
@@ -262,4 +262,4 @@ Visit `http://localhost:8001` in your browser. The app should be up & running.
 <br />
 
 ---
-[Flask Dashboard Black PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
+[Flask Dashboard - Black Design PRO](https://appseed.us/admin-dashboards/flask-dashboard-black-pro) - Provided by **AppSeed** [Web App Generator](https://appseed.us/app-generator).
