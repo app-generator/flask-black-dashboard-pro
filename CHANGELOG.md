@@ -1,12 +1,10 @@
 # Change Log
 
-## [1.0.1] 2020-06-13
+## [1.0.1] 2021-02-17
 ### Improvements
 
-- Improve 403 errors (access denied) flow
-- Update the code-base to the latest version - https://github.com/app-generator/boilerplate-code-flask-dashboard
-- Update Licensing information
-- Add CHANGELOG.md to track all changes
+- UI: [Jinja Black PRO](https://github.com/app-generator/jinja-black-dashboard-pro) v1.0.2
+- Codebase: [Flask Dashboard](https://github.com/app-generator/boilerplate-code-flask-dashboard) v1.0.4
 
 ## [1.0.0] 2020-02-07
 ### Initial Release

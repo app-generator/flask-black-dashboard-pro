@@ -14,18 +14,44 @@ All commercial web apps (including this one) provided by AppSeed are released un
 
 > For full information please access [Personal License](https://github.com/app-generator/license-personal)
 
+- Solo-developers, Small teams (max 3 members) 
+- Updates: 6mo.
+- LIVE Support: 6mo.
 - Create single personal website/app
 - Create single website/app for client
+- Paying end-users - YES
+- Create SaaS application - NO
+- Production deployment assistance - NO
 
 <br />
 
-### [Developer License](https://github.com/app-generator/license-developer)
+### [StartUP License](https://github.com/app-generator/license-startup)
 
-> For full information please access [Developer License](https://github.com/app-generator/license-developer)
+> For full information please access [StartUP License](https://github.com/app-generator/license-startup)
 
+- Medium teams (max 9 members) 
+- Updates: 12mo.
+- LIVE Support: 12mo.
+- Create single personal website/app
+- Create single website/app for client
+- Paying end-users - YES
+- Create SaaS application - NO
+- Production deployment assistance - NO
+
+<br />
+
+### [Company License](https://github.com/app-generator/license-company)
+
+> For full information please access [Company License](https://github.com/app-generator/license-company)
+
+- Large teams (unlimited members) 
+- Updates: 12mo.
+- LIVE Support: 12mo.
 - Create multiple personal websites/apps
 - Create multiple websites/apps for clients
-- Create single SaaS application
+- Paying end-users - YES
+- Create SINGLE SaaS application - YES
+- Production deployment assistance - NO
 
 <br />
 
