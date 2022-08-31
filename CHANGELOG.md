@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.6] 2022-08-31
+### Improvements
+
+- Bump UI Version
+  - `Black Dashboard PRO` - v1.1.2
+- Persistent Dark-Mode   
+
 ## [1.0.5] 2022-04-01
 ### Fixes
 
