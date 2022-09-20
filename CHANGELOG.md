@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.7] 2022-09-20
+### Improvements
+
+- `OAuth` via Github & Twitter
+- `Extended profiles`
+- Improved `Docker`
+
 ## [1.0.6] 2022-08-31
 ### Improvements
 
