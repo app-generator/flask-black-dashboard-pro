@@ -1,14 +1,19 @@
 # Change Log
 
-## [1.0.7] 2022-09-20
-### Improvements
+## [1.0.7] 2023-05-11
+### Changes
 
-- `OAuth` via Github & Twitter
-- `Extended profiles`
-- Improved `Docker`
+- Added `Change Password` Option
+- UI Changes: deprecate `ASSETS_ROOT`
+  - classic `static` tag is used 
+- Deployment-ready for Render (CI/CD)
+  - `render.yaml`, `build.sh`
+- DBMS silent fallback to SQLite:
+  - `.env` DBMS settings not good or not present
+- `CDN` support
 
 ## [1.0.6] 2022-08-31
-### Improvements
+### Changes
 
 - Bump UI Version
   - `Black Dashboard PRO` - v1.1.2

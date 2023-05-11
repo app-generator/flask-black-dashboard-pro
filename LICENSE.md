@@ -1,4 +1,4 @@
-# Commercial License
+# Commercial Projects - EULA 
 
 Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
@@ -6,54 +6,70 @@ Copyright (c) 2019 - present [AppSeed](http://appseed.us/)
 
 ## Licensing Information
 
-All commercial web apps (including this one) provided by AppSeed are released under two configurations:
+This document explains the usage terms for all **commercial** products (apps/tools) developed by **[AppSeed](http://appseed.us/)**. 
+
+Used terms: 
+
+- `Solo-Developer`: code digital products as freelencer (without being incorporated in a company)
+- `StartUp` - young company founded 12mo (or less) in the past
+- `Small Company` - maximum 3 developers, active for more than 1year 
+- `Company` - More than 4 developers and less than 50
+- `Corporate` - More than 50 developers 
 
 <br />
 
-### [Personal License](https://github.com/app-generator/license-personal)
+## [Personal License](https://github.com/app-generator/license-personal)
 
-> For full information please access [Personal License](https://github.com/app-generator/license-personal)
+> Licensing Information - full info [here](https://github.com/app-generator/license-personal)
 
-- Solo-developers, Small teams (max 3 members) 
-- Updates: 6mo.
-- LIVE Support: 6mo.
-- Create single personal website/app
-- Create single website/app for client
-- Paying end-users - YES
-- Create SaaS application - NO
-- Production deployment assistance - NO
-
-<br />
-
-### [StartUP License](https://github.com/app-generator/license-startup)
-
-> For full information please access [StartUP License](https://github.com/app-generator/license-startup)
-
-- Medium teams (max 9 members) 
-- Updates: 12mo.
-- LIVE Support: 12mo.
-- Create single personal website/app
-- Create single website/app for client
-- Paying end-users - YES
-- Create SaaS application - NO
-- Production deployment assistance - NO
+| Item | - |
+| ---------------------------------- | --- |
+| Domains | 1 |
+| Team Size | **3 developer** |
+| [Support](https://appseed.us/support/) & Updates: | **6 months** |
+| --- | --- |
+| Product sale | ✅ |
+| Create single personal website/app | ✅ |
+| Create single website/app for client | ✅ |
+| Remove footer credits | ✅ |
+| SaaS application | ❌ |
 
 <br />
 
-### [Company License](https://github.com/app-generator/license-company)
+## [StartUp License](https://github.com/app-generator/license-startup)
 
-> For full information please access [Company License](https://github.com/app-generator/license-company)
+> Licensing Information - full info [here](https://github.com/app-generator/license-startup)
 
-- Large teams (unlimited members) 
-- Updates: 12mo.
-- LIVE Support: 12mo.
-- Create multiple personal websites/apps
-- Create multiple websites/apps for clients
-- Paying end-users - YES
-- Create SINGLE SaaS application - YES
-- Production deployment assistance - NO
+| Item | - |
+| ---------------------------------- | --- |
+| Domains | 1 |
+| Team Size | **Up to 9 developers** |
+| [Support](https://appseed.us/support/) & Updates: | **12 months** |
+| --- | --- |
+| Product sale | ✅ |
+| Create single personal website/app | ✅ |
+| Create single website/app for client | ✅ |
+| Remove footer credits | ✅ |
+| SaaS application | ❌ |
+
+<br />
+
+## [Company License](https://github.com/app-generator/license-company)
+
+> Licensing Information - full info [here](https://github.com/app-generator/license-company)
+
+| Item | - |
+| ---------------------------------- | --- |
+| Team Size | **Unlimited** |
+| [Support](https://appseed.us/support/) & Updates: | **Lifetime** |
+| --- | --- |
+| Product sale | ✅ |
+| Create multiple personal websites/apps | ✅ |
+| Create multiple websites/apps for clients | ✅ |
+| Remove footer credits | ✅ |
+| SaaS application | ✅ |
 
 <br />
 
 ---
-For more information regarding licensing, please contact the AppSeed Service < *support@appseed.us* >
+For more information regarding licensing, please contact the [AppSeed](https://appseed.us/) Service < *support@appseed.us* >
